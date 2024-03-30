@@ -1,0 +1,4 @@
+20240307	01:59:05	e6ba6cc1-ed85-4407-a3a1-6508401dc221	Error: Not allowed by CORS
+20240307	01:59:06	dfe35490-0add-4148-9aee-a01f68048fee	Error: Not allowed by CORS
+20240307	02:01:00	f91c2b31-533b-4d09-9b94-96d8d8845f84	Error: Not allowed by CORS
+20240308	01:24:24	9c8356a0-faba-4f88-8afc-b7360fd7a05a	Error: ENOENT: no such file or directory, stat 'C:\Users\Claussimar\Repositorios\TESTS\travelandz\travelandz-back\views\404.html'
